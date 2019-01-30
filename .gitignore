@@ -1,0 +1,8 @@
+/nbproject/private/
+dist/
+build/
+classes/
+*.class
+.idea/
+.gradle/
+*.iml
